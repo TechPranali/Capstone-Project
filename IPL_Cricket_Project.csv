@@ -1,0 +1,16 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+1,2008,Bangalore,2008-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,140,0,BB McCullum,M Chinnaswamy Stadium,Asad Rauf,Rudi Koertzen
+2,2008,Mohali,2008-04-19,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings,33,0,MEK Hussey,PCA Stadium, Mohali,MR Benson,SL Shastri
+3,2008,Delhi,2008-04-19,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,9,MF Maharoof,Feroz Shah Kotla Ground,Aleem Dar,GA Pratapkumar
+4,2008,Hyderabad,2008-04-22,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,normal,0,Kolkata Knight Riders,0,5,DJ Hussey,RGI Cricket Stadium,DJ Harper,K Hariharan
+5,2008,Jaipur,2008-04-24,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,SR Watson,Sawai Mansingh Stadium,Asad Rauf,RE Koertzen
+6,2008,Chennai,2008-04-26,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,13,MS Dhoni,MA Chidambaram Stadium,MR Benson,SL Shastri
+7,2008,Mumbai,2008-04-27,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,YK Pathan,DY Patil Stadium,Aleem Dar,GA Pratapkumar
+8,2008,Kolkata,2008-04-29,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,0,5,JM Kemp,Eden Gardens,DJ Harper,RE Koertzen
+9,2008,Hyderabad,2008-05-01,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,8,Sehwag,RGI Cricket Stadium,MR Benson,SL Shastri
+10,2008,Chennai,2008-05-02,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,8,SR Watson,MA Chidambaram Stadium,Asad Rauf,RE Koertzen
+11,2008,Kolkata,2008-05-04,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,0,3,MS Dhoni,Eden Gardens,Aleem Dar,GA Pratapkumar
+12,2008,Mohali,2008-05-05,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,4,ST Jayasuriya,PCA Stadium, Mohali,DJ Harper,K Hariharan
+13,2008,Delhi,2008-05-08,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,bat,normal,0,Delhi Daredevils,12,0,G Gambhir,Feroz Shah Kotla Ground,MR Benson,SL Shastri
+14,2008,Mumbai,2008-05-10,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,0,9,ST Jayasuriya,DY Patil Stadium,Aleem Dar,GA Pratapkumar
+15,2008,Jaipur,2008-05-11,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,Rajasthan Royals,0,3,SR Watson,Sawai Mansingh Stadium,Asad Rauf,RE Koertzen
