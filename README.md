@@ -9,7 +9,7 @@
 2. Data Cleaning
 3. Exploratory Data Analysis (EDA)
 4. Summary of Key Findings
-
+acc
 ---
 
 ### 1. Project Overview
@@ -38,7 +38,6 @@ The dataset used in this project is from [Kaggle](https://www.kaggle.com/dataset
 - `venue`: Location of the match.
 
 ---
-
 ### 3. Data Loading
 
 ```python
@@ -47,15 +46,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data = pd.read_csv('path_to_your_dataset.csv')
+data = pd.read_csv('IPL_Cricket_Project.csv')
 data.head()
 
-### 3. Setting Up the Project Virtual Environment
+
+### 3.1 Setting Up the Project Virtual Environment
 
 To keep the project dependencies organized and ensure compatibility across environments, it’s recommended to set up a Python virtual environment. Below are the steps to create, activate, and manage the virtual environment for this project.
 
 1. Create a Virtual Environment
-First, navigate to your project directory. Then, use the following command to create a virtual environment named .venv (or any other preferred name):
+First, navigate to your project directory. Then, use the following command to create a virtual environment named .venv 
 python3 -m venv .venv
 This will create a folder .venv in your project directory, containing the isolated Python environment.
 
@@ -66,7 +66,9 @@ To activate the virtual environment: .venv\Scripts\activate
 After activating the virtual environment, install the required packages by running:
 pip install -r requirements.txt
 
-### 4. Exploratory Data Analysis (EDA)
+---
+
+### 3.2 Exploratory Data Analysis (EDA)
 This section includes an in-depth analysis of team performance, player statistics, and match outcomes.
 
 Key Steps
@@ -80,5 +82,6 @@ sns.countplot(x='winner', data=data, order=data['winner'].value_counts().index)
 plt.xticks(rotation=90)
 plt.title("Number of Wins by Each Team")
 plt.show()
+---
 
 
