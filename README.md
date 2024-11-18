@@ -60,11 +60,18 @@ python3 -m venv .venv
 This will create a folder .venv in your project directory, containing the isolated Python environment.
 
 2. Activate the Virtual Environment
+
 To activate the virtual environment: .venv\Scripts\activate
+After activation, the terminal prompt will reflect the active environment by displaying the name of the virtual environment.
 
 3. Install Project Dependencies
+Once the virtual environment is activated, use the following command to install the required dependencies. Ensure that the requirements.txt file is available in the project directory and contains all necessary packages.
 After activating the virtual environment, install the required packages by running:
+
 pip install -r requirements.txt
+
+This command reads the dependencies listed in requirements.txt and installs them into the isolated environment, ensuring consistent package versions.
+
 
 ---
 
