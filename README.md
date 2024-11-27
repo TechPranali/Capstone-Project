@@ -46,7 +46,7 @@ data = pd.read_csv('IPL_Cricket_Project.csv')
 data.head()
 
 
-3.1 Setting Up the Project Virtual Environment
+# 3.1 Setting Up the Project Virtual Environment
 
 To keep the project dependencies organized and ensure compatibility across environments, it’s recommended to set up a Python virtual environment. Below are the steps to create, activate, and manage the virtual environment for this project.
 
