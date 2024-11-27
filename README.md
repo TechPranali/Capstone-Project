@@ -184,16 +184,10 @@ Using SHAP values, the most influential features for predicting match outcomes w
 ---
 
 ## Deliverables
-- **Overleaf Report**: [Link to Overleaf Report](https://www.overleaf.com)
-- **GitHub Repository**: [GitHub Repository Link](https://github.com/YourRepo/ProjectName)
-- **Jupyter Notebooks**: [Link to Notebooks](https://github.com/YourRepo/ProjectName/notebooks)
+- **Overleaf Report**: [Link to Overleaf Report](https://www.overleaf.com/read/nmmbscxgyyzy#79eb9d)
+- **GitHub Repository**: [GitHub Repository Link]([https://github.com/YourRepo/ProjectName](https://github.com/TechPranali/Capstone-Project/tree/main))
 
 ---
 
-## Getting Started
-To replicate this analysis:
-1. Clone this repository.
-   ```bash
-   git clone https://github.com/YourRepo/ProjectName.git
 
 
