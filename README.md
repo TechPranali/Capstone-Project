@@ -2,7 +2,6 @@
 
 ### Author: Pranali Baban Dhobale
 
----
 
 ## Project Outline
 1. Data Loading
@@ -10,7 +9,6 @@
 3. Exploratory Data Analysis (EDA)
 4. Summary of Key Findings
 acc
----
 
 ### 1. Project Overview
 
@@ -21,7 +19,6 @@ This project involves analyzing IPL (Indian Premier League) cricket data from 20
 - Explore the impact of toss decisions on match results.
 - Highlight top players based on 'Player of the Match' awards.
 
----
 
 ### 2. Data Description
 
@@ -37,7 +34,6 @@ The dataset used in this project is from [Kaggle](https://www.kaggle.com/dataset
 - `toss_winner`, `toss_decision`: Team that won the toss and their decision.
 - `venue`: Location of the match.
 
----
 ### 3. Data Loading
 
 ```python
