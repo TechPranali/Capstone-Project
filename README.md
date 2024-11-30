@@ -185,7 +185,6 @@ Using SHAP values, the most influential features for predicting match outcomes w
 
 ## Deliverables
 - **Overleaf Report**: [Link to Overleaf Report](https://www.overleaf.com/read/nmmbscxgyyzy#79eb9d)
-- **GitHub Repository**: [GitHub Repository Link]([https://github.com/YourRepo/ProjectName](https://github.com/TechPranali/Capstone-Project/tree/main))
 
 ---
 
